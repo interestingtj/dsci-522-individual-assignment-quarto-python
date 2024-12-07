@@ -6,6 +6,8 @@ format:
     toc: true
     toc-location: left
     copy-resources: true
+    tbl-cap-location: bottom
+    embed-resources: true
 editor: source
 bibliography: references.bib
 execute:
